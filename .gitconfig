@@ -1,0 +1,12 @@
+[filesystem "Oracle Corporation|15.0.1|812162141"]
+	timestampResolution = 1042 microseconds
+	minRacyThreshold = 0 nanoseconds
+[user]
+	username = Mysuwaphit
+	name = MySuwaphit
+	email = suwaphit.chotsawad@gmail.com
+[filesystem "Oracle Corporation|15.0.1|68086400"]
+	timestampResolution = 998 microseconds
+	minRacyThreshold = 0 nanoseconds
+[credentail]
+	helper = store

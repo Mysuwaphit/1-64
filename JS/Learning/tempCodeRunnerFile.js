@@ -1,0 +1,1 @@
+let num ={number: 10, name: 'My'}
